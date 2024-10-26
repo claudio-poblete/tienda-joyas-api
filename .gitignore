@@ -1,0 +1,13 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos log
+*.log
+
+# Ignorar cachés del editor y sistema operativo
+.DS_Store
+.idea/
+.vscode/
